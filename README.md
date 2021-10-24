@@ -42,3 +42,5 @@ openlojamenu = function()
         end
 	)
 end
+
+### rdx_shop is free of use, but I would appreciate it if you leave a credit when personalising or editing this.
