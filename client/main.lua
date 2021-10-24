@@ -130,17 +130,6 @@ openlojamenu = function()
 			elements = {
 				{label = "Pão $3", type = "slider", value = 1, min = 1, max = 1, price = 3, item = "bread"},
 				{label = "Água $3", type = "slider", value = 1, min = 1, max = 1, price = 3, item = "water"},
-				--{label = "peneiraouro $1200", type = "slider", value = 1, min = 1, max = 1, price = 1200, item = "goldpan"},
-				--{label = "Tenda $2500", type = "slider", value = 1, min = 1, max = 1, price = 2500, item = "tenda"},
-				--{label = "Fogueira $500", type = "slider", value = 1, min = 1, max = 1, price = 500, item = "fogueira"},
-				--{label = "Pote $1000", type = "slider", value = 1, min = 1, max = 1, price = 1000, item = "pote"},
-				--{label = "Milho $2", type = "slider", value = 1, min = 1, max = 1, price = 2, item = "milho"},
-				--{label = "Aveia $2", type = "slider", value = 1, min = 1, max = 1, price = 2, item = "aveia"},
-				--{label = "Trigo $2", type = "slider", value = 1, min = 1, max = 1, price = 2, item = "trigo"},
-				--{label = "Pano de Arma $2", type = "slider", value = 1, min = 1, max = 1, price = 2, item = "cleanshort"},
-				--{label = "Cigarro $1", type = "slider", value = 1, min = 1, max = 1, price = 1, item = "cigarro"},
-				--{label = "Charuto $1", type = "slider", value = 1, min = 1, max = 1, price = 1, item = "cigarro2"},
-            }
 		},
 		function(data, menu)
 			local name = data.current.item
