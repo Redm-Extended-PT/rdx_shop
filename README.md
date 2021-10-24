@@ -1,4 +1,5 @@
 # rdx_shop
+![rdx_shop](https://cdn.discordapp.com/attachments/686807996420063232/901654422927597599/unknown.png)
 
 ## Requirements
 - [rdx_menu_default](https://github.com/Redm-Extended-PT/rdx_menu_default)
@@ -41,6 +42,3 @@ openlojamenu = function()
         end
 	)
 end
-
-## Screenshots
-![rdx_shop](https://cdn.discordapp.com/attachments/686807996420063232/901654422927597599/unknown.png)
