@@ -1,5 +1,6 @@
 # rdx_shop
 ![rdx_shop](https://cdn.discordapp.com/attachments/686807996420063232/901654422927597599/unknown.png)
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
 
 ### rdx_shop is free of use, but I would appreciate it if you leave a credit when personalising or editing this.
 
